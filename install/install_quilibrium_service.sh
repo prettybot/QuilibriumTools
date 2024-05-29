@@ -16,7 +16,7 @@ echo "⏳Processing..."
 sleep 2  # Add a 2-second delay
 
 sudo apt update
-sudo apt upgrade -y
+# sudo apt upgrade -y
 sudo apt install git -y
 
 
